@@ -166,8 +166,7 @@ python train.py --data data.yaml --epochs 60
 
 # Run detection
 python detect.py --source path/to/your/image_or_video
-```bash
----
+```
 ### Contribution
 
 Contributions to the Observer project are welcome. If you have any suggestions, improvements, or bug fixes, please submit a pull request. Ensure to follow the coding guidelines and provide a detailed description of your changes.
