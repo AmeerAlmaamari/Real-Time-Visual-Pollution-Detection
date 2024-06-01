@@ -151,26 +151,26 @@ To use the Observer system for detecting visual pollution in real-time, follow t
 5. **Run Detection**: Use the trained model to run real-time detection on new images or video streams.
 
 
-# Clone the repository
+#### Clone the repository
 ```bash
 git clone https://github.com/AmeerAlmaamari/Real-Time-Visual-Pollution-Detection.git
 
 cd Real-Time-Visual-Pollution-Detection
 ```
-# Install dependencies
+#### Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
-# Prepare and augment the dataset
+#### Prepare and augment the dataset
 ```bash
 python prepare_dataset.py
 ```
 
-# Train the model
+#### Train the model
 ```bash
 python train.py --data data.yaml --epochs 60
 ```
-# Run detection
+#### Run detection
 ```bash
 python detect.py --source path/to/your/image_or_video
 ```
