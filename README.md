@@ -58,7 +58,7 @@ The dataset was sourced from the Saudi Authority for Data and Artificial Intelli
 
 YOLOv8 was selected for its ability to process images in real-time and perform simultaneous detection and classification of multiple objects. The model structure is visualized in the architecture diagram provided by GitHub user RangeKing.
 
-![YOLOv8 Architecture](./yolov8_arc.jpg)
+![YOLOv8 Architecture](screens/yolov8_arc.jpg)
 
 ### Model Training
 
@@ -70,8 +70,8 @@ The dataset was split into 80% training, 19% validation, and 1% testing. The mod
 
 The model's performance was evaluated using precision, recall, and mAP@0.5. The precision-recall curve and confusion matrix are shown below:
 
-![Precision-Recall Curve](./PR_curve.png)
-![Confusion Matrix](./confusion_matrix.png)
+![Precision-Recall Curve](screens/PR_curve.png)
+![Confusion Matrix](screens/confusion_matrix.png)
 
 ### Class-based Acceptance
 
@@ -81,8 +81,8 @@ Each class of visual pollution was assigned a specific confidence threshold to e
 
 Examples of detected elements are shown below:
 
-![Detection Samples](./val_batch0_labels.jpg)
-![Detection Samples](./val_batch2_pred.jpg)
+![Detection Samples](screens/val_batch0_labels.jpg)
+![Detection Samples](screens/val_batch2_pred.jpg)
 
 ## Conclusion and Future Work
 
@@ -170,8 +170,8 @@ Contributions to the Observer project are welcome. If you have any suggestions, 
 
 By using the Observer system, we aim to contribute to creating cleaner and more visually appealing urban environments, aligning with the goals of Saudi Vision 2030.
 
-![Precision-Recall Curve](./PR_curve.png)
-![Confusion Matrix](./confusion_matrix.png)
-![Detection Samples](./val_batch0_labels.jpg)
-![Detection Samples](./val_batch2_pred.jpg)
+![Precision-Recall Curve](screens/PR_curve.png)
+![Confusion Matrix](screens/confusion_matrix.png)
+![Detection Samples](screens/val_batch0_labels.jpg)
+![Detection Samples](screens/val_batch2_pred.jpg)
 
