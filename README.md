@@ -1,3 +1,8 @@
+<div align="center">
+
+  <a href="https://github.com/AmeerAlmaamari/Real-Time-Visual-Pollution-Detection" target="_blank">
+    <img width="1024", src="https://i.imgur.com/STDGXU4.jpg"></a>
+
 # Observer (لمّاح)
 
 Observer (لمّاح) is a real-time visual pollution detection system developed using YOLOv8. This project aims to automate the detection and visualization of various urban visual pollution elements such as graffiti, potholes, garbage, and more. The system is designed to improve urban aesthetics and contribute to the quality of life, public health, and sustainability goals outlined in Saudi Vision 2030.
