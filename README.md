@@ -166,6 +166,7 @@ python train.py --data data.yaml --epochs 60
 
 # Run detection
 python detect.py --source path/to/your/image_or_video
+```bash
 
 ### Contribution
 
@@ -174,10 +175,4 @@ Contributions to the Observer project are welcome. If you have any suggestions, 
 
 ---
 
-By using the Observer system, we aim to contribute to creating cleaner and more visually appealing urban environments, aligning with the goals of Saudi Vision 2030.
-
-![Precision-Recall Curve](screens/PR_curve.png)
-![Confusion Matrix](screens/confusion_matrix.png)
-![Detection Samples](screens/val_batch0_labels.jpg)
-![Detection Samples](screens/val_batch2_pred.jpg)
 
