@@ -16,8 +16,7 @@ Observer (لمّاح) is a real-time visual pollution detection system developed
     - [Class-based Acceptance](#class-based-acceptance)
     - [Detection Samples](#detection-samples)
 6. [Conclusion and Future Work](#conclusion-and-future-work)
-7. [References](#references)
-8. [Appendix](#appendix)
+7. [Appendix](#appendix)
 
 ## Introduction
 
