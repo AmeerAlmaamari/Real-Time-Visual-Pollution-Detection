@@ -2,6 +2,7 @@
 
   <a href="https://github.com/AmeerAlmaamari/Real-Time-Visual-Pollution-Detection" target="_blank">
     <img width="1024", src="https://i.imgur.com/STDGXU4.jpg"></a>
+    </div>
 
 # Observer (لمّاح)
 
