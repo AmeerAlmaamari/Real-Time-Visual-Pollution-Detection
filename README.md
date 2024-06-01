@@ -64,7 +64,7 @@ The dataset was sourced from the Saudi Authority for Data and Artificial Intelli
 
 YOLOv8 was selected for its ability to process images in real-time and perform simultaneous detection and classification of multiple objects. The model structure is visualized in the architecture diagram provided by GitHub user RangeKing.
 
-![YOLOv8 Architecture](screens/yolov8 arc.jpg)
+![YOLOv8 Architecture](screens/yolov8_arc.jpg)
 
 ### Model Training
 
